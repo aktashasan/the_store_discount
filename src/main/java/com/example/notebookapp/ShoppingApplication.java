@@ -2,7 +2,7 @@ package com.example.notebookapp;
 
 import com.example.notebookapp.shopping.Price;
 
-public class NotebookApplication {
+public class ShoppingApplication {
 
 	public static void main(String[] args) {
 
