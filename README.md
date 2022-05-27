@@ -7,7 +7,7 @@
 - Genel ve basit kodlama yapıldı
 - Tüm anahtar sınıfların üst düzey bir UML sınıf diyagramını sağlar.
 
-## Ekran Görüntüleri
+## UML
 
 ![Uygulama Ekran Görüntüsü](https://github.com/aktashasan/the_store_discount/blob/master/uml.png)
 
